@@ -1,0 +1,287 @@
+.banner{
+    display: flex;
+    justify-content: space-between;
+    padding: 180px;
+    padding-right: 300px;
+    background: rgba(229, 84, 115, 0.10);
+    padding-bottom: 0px;
+
+}
+
+.about{
+    font-size: 80px;
+    display: flex;
+    color: #272727;
+    font-weight: 700;
+    line-height: normal;
+}
+.Description{
+    display: flex;
+    width: 700px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 20px;
+   
+}
+.flower{
+    background-color: rgba(229, 84, 115, 0.10);
+}
+.btn{
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+}
+.shop{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.right{
+    width: 630px;
+    height: 800px;
+    /* flex-shrink: 0; */
+}
+
+
+.head{
+    color: #272727;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    
+  
+}
+.flw{
+     text-align: center;
+     font-size: 20px;
+     color: rgba(39, 39, 39, 0.60);
+     
+
+}
+.Lily{
+  display: flex;
+    justify-content: space-around;
+    text-decoration-line: underline;
+text-align: center;
+
+}
+.optional{
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    height: 500px;
+    width: 1690px;
+    border-radius: 8px;
+    margin-left: 180px;
+    margin-top: 40px;
+}
+.details{
+     align-items: center;
+}
+
+.first{
+    width: 464px;
+    height: 638px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    border-bottom: 300px;
+}
+.second{
+    width: 464px;
+    height: 638px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.third{
+    width: 464px;
+    height: 638px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.main-header{
+width: 2000px;
+height: 650px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05); 
+display: flex;
+justify-content: space-around;
+margin-top: 30px;
+margin-bottom: 80px;
+}
+
+.main-head{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 200px;
+}
+.div-nain{
+    display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-left: 200px;
+
+}
+.crime{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+margin-left: 400px;
+border: none;
+}
+.sign{
+    color: #FFF;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.about-main{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.off{
+   color:  #E55473;
+}
+.rflower{
+    width: 318px;
+height: 420px;
+flex-shrink: 0;
+margin-top: 98px;
+margin-bottom: 100px;
+margin-right: 350px;
+}
+.in{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #272727;
+  
+}
+.in-info{
+    text-align: center;
+flex-direction: column;
+font-size: 100%;
+color: rgba(39, 39, 39, 0.60);
+
+}
+.all-ig-image{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 60px;
+}
+.kalamanik{
+    max-width: 100%;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 280px;
+    position: relative;
+}
+.bn{
+   
+    position: absolute;
+    top: 0;
+
+}
+.potato{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left:  550px;
+    margin-top: 80px;
+    font-size: 40px;
+    color: #272727;
+}
+.chill{
+    padding-left:  620px;
+    margin-top: 4px;
+    flex-direction: column;
+font-size: 100%;
+color: rgba(39, 39, 39, 0.60);
+}
+.Enter{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 10px;
+background: #FFF;
+margin-top: 100px;
+margin-left: 30%;
+
+}
+.me{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #E55473;
+margin-left: 109%;
+
+
+}
+.you{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 8px;
+    background: #E55473;
+    width: 88px;
+    color: white;
+    font-size: 18px;
+    
+}
+.foot{
+   
+    background-color: black;
+    width: 2020px;
+height: 449px;
+flex-shrink: 0;
+}
+.shuu
+{
+    color: #FFF;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 100px;
+  
+
+}
+.Fluu{
+    color: #E55473;
+}
+.foot-end{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    
+}
+.copy{
+    text-align: center;
+    color: #FFF;
+}
